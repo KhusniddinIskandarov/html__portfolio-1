@@ -1,0 +1,28 @@
+/* html -ish-1 html styles*/
+#portfolio-photo {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+header {
+    text-align: center;
+}
+
+.experience__company {
+    color: green;
+}
+
+.experience__company, .education__institiution {
+    color: green;
+}
+
+table {
+    width: 100%;
+}
+
+/*contact html styles*/
+
+.field {
+    margin-bottom: 5px;
+}
